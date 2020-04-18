@@ -1,0 +1,19 @@
+{
+    "jwtKey":"secret",
+    "userCredentials":{
+        "userName":"saeccse527@gmail.com",
+        "password":"sreekanth27"
+    },
+    "users": [
+        {
+          "username": "srikanth munaga",
+          "email": "saeccse527@gmail.com",
+          "password": "sreekanth27"
+        },
+        {
+          "username": "srikanth munaga",
+          "email": "saeccse527@gmail.com",
+          "password": "sreekanth27"
+        }
+      ]
+}
